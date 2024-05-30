@@ -14,7 +14,7 @@ Pin setup is as follows (can be changed in UserSetup.h):
   BLK (blank  backlit) -- GPIO_4
 ```
 
-Display properties:
+### Display properties:
 
 - Screen technology: TFT IPS
 - Interface: SPI (but pinout looks like I2C)
@@ -25,3 +25,7 @@ Display properties:
 - Size: 1.69 inch
 - Brightness: 480 CD/m2
 - Logic voltage: 3.3 V
+
+### ESP 32 pinout:
+
+![ESP32-DEV-CP2102-C-003](https://github.com/RobertNeat/ST7789_square_disp/assets/47086490/cea5f9b6-d77e-4bd1-9702-878f2e55cf16)
